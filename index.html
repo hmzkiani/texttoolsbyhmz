@@ -1,0 +1,52 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TextTools — Free Online Text Tools</title>
+<meta name="description" content="14 free browser-based text tools: word counter, character counter, case converter, text cleaner, slug generator and more.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+<header id="site-header"></header>
+<main id="main">
+  <section class="hero">
+    <div class="container">
+      <span class="hero-badge">✨ 14 free tools · no signup required</span>
+      <h1>Free Online <span class="gradient">Text Tools</span></h1>
+      <p class="subtitle">Simple, fast and powerful tools to count, clean, format and transform your text — right in your browser.</p>
+      <div class="search-wrap">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input type="text" class="search-box" id="toolSearch" placeholder="Search for a tool..." aria-label="Search tools" autocomplete="off">
+        <div class="search-results" id="searchResults"></div>
+      </div>
+      <div class="category-quick">
+        <a class="category-chip" href="#cat-counting">📝 Counting</a>
+        <a class="category-chip" href="#cat-formatting">🔤 Text Formatting</a>
+        <a class="category-chip" href="#cat-utilities">🛠️ Text Utilities</a>
+        <a class="category-chip" href="#cat-generators">🎲 Generators</a>
+      </div>
+    </div>
+  </section>
+  <div class="container"><div id="toolGrid"></div></div>
+  <section class="section why-section">
+    <div class="container">
+      <div class="section-header"><h2>Why Use TextTools?</h2><p>Everything you need to work with text, without the clutter.</p></div>
+      <div class="why-grid">
+        <div class="why-card"><div class="why-icon">⚡</div><h3>Fast</h3><p>All tools run instantly in your browser. No waiting, no page reloads.</p></div>
+        <div class="why-card"><div class="why-icon">🔒</div><h3>Privacy Friendly</h3><p>Core tools process text locally in your browser. Nothing is uploaded for these tools.</p></div>
+        <div class="why-card"><div class="why-icon">🆓</div><h3>100% Free</h3><p>Every tool is completely free, with no hidden costs.</p></div>
+        <div class="why-card"><div class="why-icon">📱</div><h3>Mobile Friendly</h3><p>Responsive design that works on phones, tablets and desktops.</p></div>
+        <div class="why-card"><div class="why-icon">🚀</div><h3>No Registration</h3><p>Start using any tool immediately. No account required.</p></div>
+        <div class="why-card"><div class="why-icon">💻</div><h3>Browser Based</h3><p>Works entirely in your browser using JavaScript.</p></div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer id="site-footer"></footer>
+<div id="toast" class="toast"></div>
+<script src="js/main.js"></script>
+<script src="js/tools.js"></script>
+</body>
+</html>

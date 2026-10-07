@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://yourdomain.com/index.html</loc></url>
+  <url><loc>https://yourdomain.com/about.html</loc></url>
+  <url><loc>https://yourdomain.com/contact.html</loc></url>
+  <url><loc>https://yourdomain.com/blog.html</loc></url>
+  <url><loc>https://yourdomain.com/privacy.html</loc></url>
+  <url><loc>https://yourdomain.com/terms.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/word-counter.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/character-counter.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/line-counter.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/word-frequency-counter.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/case-converter.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/text-cleaner.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/small-text-generator.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/superscript-generator.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/subscript-generator.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/remove-duplicate-lines.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/find-and-replace.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/text-to-slug.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/lorem-ipsum-generator.html</loc></url>
+  <url><loc>https://yourdomain.com/tools/random-text-generator.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/word-counter-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/text-cleaner-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/text-to-slug-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/duplicate-lines-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/case-converter-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/word-frequency-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/lorem-ipsum-guide.html</loc></url>
+  <url><loc>https://yourdomain.com/blog/superscript-subscript-guide.html</loc></url>
+</urlset>
